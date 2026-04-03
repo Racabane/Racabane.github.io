@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Ethics 301 paper.pdf)
+### [Team User Interface Project](Charity Run Design.pdf)
 
 - **Class:** 
 - **Grade:**
