@@ -36,15 +36,15 @@ Ethics Papers
 -   **Class:** Survey of Scripting language 
 -   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Balancing Reliability and Availability of Technology](/pdf/Ethics CSCI 315 paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Data Structure Analysis
+-   **Grade:** B
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Privacy and Anonymity on the Web](/pdf/Ethics CSCI 415 paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Algorithms
+-   **Grade:** B
 
 ---
 
