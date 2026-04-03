@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Professionals in the Computing field handling Copyright]([/pdf/sample_presentation.pdf](https://github.com/Racabane/Racabane.github.io/blob/master/pdf/Ethics%20301%20paper.pdf))
+### [Professionals in the Computing field handling Copyright](/pdf/Ethics 301 paper.pdf)
 
 -   **Class:** Survey of Scripting language 
 -   **Grade:** A
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/Ethics 301 paper.pdf)
 
 - **Class:** 
 - **Grade:**
