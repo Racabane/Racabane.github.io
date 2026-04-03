@@ -54,7 +54,7 @@ Presentations
 ### [Team User Interface Project](/pdf/Charity_Run_Design.pdf)
 
 - **Class:** 
-- **Grade:**
+- **Grade:** A
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
