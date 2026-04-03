@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class:** Survey of Scripting language 
 -   **Grade:** A
 
-### [Balancing Reliability and Availability of Technology](/pdf/Ethics CSCI 315 paper.pdf)
+### [Balancing Reliability and Availability of Technology](/pdf/Ethics_CSCI_315_paper.pdf)
 
 -   **Class:** Data Structure Analysis
 -   **Grade:** B
 
-### [Privacy and Anonymity on the Web](/pdf/Ethics CSCI 415 paper.pdf)
+### [Privacy and Anonymity on the Web](/pdf/Ethics_CSCI_415_paper.pdf)
 
 -   **Class:** Algorithms
 -   **Grade:** B
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Team User Interface Project](Charity Run Design.pdf)
+### [Team User Interface Project](Charity_Run_Design.pdf)
 
 - **Class:** 
 - **Grade:**
