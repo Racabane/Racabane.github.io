@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Team User Interface Project](Charity_Run_Design.pdf)
+### [Team User Interface Project](/pdf/Charity_Run_Design.pdf)
 
 - **Class:** 
 - **Grade:**
