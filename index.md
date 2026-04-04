@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Professionals in the Computing field handling Copyright](/pdf/ethics_301_paper.md)
+### [Professionals in the Computing field handling Copyright](/pdf/Ethics_301_paper.md)
 
 -   **Class:** Survey of Scripting language 
 -   **Grade:** A
