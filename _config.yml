@@ -9,8 +9,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
  <a href= "/pdf/resume.pdf">View My Resume</a>
   <br /><br />
-repository: "csci-csu/csci-portfolio"
-github_username: Caboneless # update with your username
+repository: "Racabane/Racabane.github.io"
+github_username: Racabane # update with your username
 
 # Build setting
 theme: jekyll-theme-minimal
