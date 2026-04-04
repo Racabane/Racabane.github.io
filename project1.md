@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Website for a 5k Run
 ===============
 
 -   **Class:** 
 -   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Language(s):** Rbuy on rails, html, css
+-   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/Racabane/charity_run_new))  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This application uses Ruby on Rails to create a website for a charity. The purpose of the website is for users to sign-up for the 5K race that the charity is hosting. The website contains additional information about the charity and race details, such as time and location.
 
 ## How to compile and run the program
 
