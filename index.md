@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [5k run Charity Website | CSCI ](project1.md)
 
-![Project 1 Thumbnail Name](images/Home page.png)
+![Project 1 Thumbnail Name](images/Home_page.png)
 
 ---
 ### [Minesweeper captcha login| CSCI ](project2.md)
