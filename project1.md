@@ -11,7 +11,7 @@ Website for a 5k Run
 
 ## Project description
 
-A team project with the goal to create a website for a charity. The purpose of the website is for users to sign-up for the 5K race that the charity is hosting. The website contains additional information about the charity and race details, such as time and location. Unfortunately two team members drop out of the course so as the team lead had to reoganize the schedule and division of tasks. With only two members left I handled the backend related tasks while the other member handled the frontend tasks. 
+A team project with the goal to create a website for a charity. The purpose of the website is for users to sign-up for the 5K race that the charity is hosting. The website contains additional information about the charity and race details, such as time and location. Unfortunately two team members drop out of the course so as the team lead had to reorganize the schedule and division of tasks. With only two members left I handled the backend related tasks while the other member handled the frontend tasks. 
 
 ## How to compile and run the program
 
