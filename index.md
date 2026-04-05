@@ -57,7 +57,7 @@ Presentations
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/SCP_Presentation.pdf)
+### [MIPS32 Processor Control ROM](/pdf/SCP_Presentation.pdf)
 
 - **Class:** COMPUTER ARCHITECTURE CSCI 330
 - **Grade:** A
