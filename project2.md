@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Minesweeper captcha
 ===============
 
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Racabane/CSCI-325-Minefield-rc)  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
