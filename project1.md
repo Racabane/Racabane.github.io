@@ -6,23 +6,26 @@ Website for a 5k Run
 -   **Class:** USER-INTERFACE PROGRAMMING
 -   **Grade:** A
 -   **Language(s):** Ruby, HTML, CSS
--   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/Racabane/charity_run_new))  
+-   **Source Code Repository:** [Charity Run](https://github.com/Racabane/charity_run_new)  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This application uses Ruby on Rails to create a website for a charity. The purpose of the website is for users to sign-up for the 5K race that the charity is hosting. The website contains additional information about the charity and race details, such as time and location.
+A team project with the goal to create a website for a charity. The purpose of the website is for users to sign-up for the 5K race that the charity is hosting. The website contains additional information about the charity and race details, such as time and location. Unfortunately two team members drop out of the course so as the team lead had to reoganize the schedule and division of tasks. With only two members left I handled the backend related tasks while the other member handled the frontend tasks. 
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+clone the repo
 
 ```bash
-cd ./project
-python setup.py
+cd charity_run_new
+bundle install (Note: have Ruby 3.1.2 installed)
+rails db:create
+rails db:migrate
+rails server
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Once running the webiste can be accessed with http://localhost:3000
 
 ## UI Design
 
@@ -48,10 +51,5 @@ Fig 5. The user content page
 ![screenshot](images/admin.png)  
 Fig 6. The admin page
 
-## 5. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
