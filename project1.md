@@ -36,13 +36,13 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](images/Home_page.png)  
 Fig 1. The home screen
 
-![screenshot](images/login_screen.png)  
+![screenshot](images/Login_screen.png)  
 Fig 2. The login page
 
-![screenshot](images/sign_up.png)  
+![screenshot](images/Sign_up.png)  
 Fig 3. The sign up page
 
-![screenshot](images/about.png)  
+![screenshot](images/About.png)  
 Fig 4. The about page
 
 ![screenshot](images/user.png)  
