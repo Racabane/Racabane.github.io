@@ -53,13 +53,13 @@ Presentations
 
 ### [Team User Interface Project](/pdf/Charity_Run_Design.pdf)
 
-- **Class:** 
+- **Class:** USER-INTERFACE PROGRAMMING CSCI 334
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/presentation2.pdf)
+### [Presentation 2 Title](/pdf/SCP_Presentation.pdf)
 
-- **Class:** 
+- **Class:** COMPUTER ARCHITECTURE CSCI 330
 - **Grade:** A
 
 ---
