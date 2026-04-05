@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 315](project4.md)
+### [Task Manager | CSCI 499](project4.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/start.jpg)
 
 ---
 
