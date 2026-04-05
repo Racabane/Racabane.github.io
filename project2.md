@@ -6,12 +6,12 @@ Minesweeper captcha
 -   **Class:** OBJECT-ORIENTED PROGRAMMING
 -   **Grade:** A
 -   **Language(s):** java
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Racabane/CSCI-325-Minefield-rc)  
+-   **Source Code Repository:** [Minefield](https://github.com/Racabane/CSCI-325-Minefield-rc)  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was the first team project introduced to the students. The project was meant for the students to get familiar with working in groups as well as utilize knowlege from the course. The team needed to come up with an idea for the project that would be writtem in java and had a GUI. The team came up with the idea to make an annoying captcha before the user can attempt to login. We decided to base the captcha on Minesweeper with the added diffculty of no numbers. Although the captcha is not really effective, the instuctor had encouraged the class to be creative and come up with something fun. For this project I handled creating the logic of the Minesweeper game itself. Another member created the designs of the icons and layouts of the various screens. The team lead created the command line instructions. While the last member handled creating the login logic.
 
 ## How to compile and run the program
 
@@ -46,11 +46,5 @@ Fig 5. A Passed attemp at the captcha
 
 ![screenshot](images/Login.png)  
 Fig 6. The login screen after the captcha
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
