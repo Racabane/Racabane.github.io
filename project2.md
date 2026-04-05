@@ -3,9 +3,9 @@
 Minesweeper captcha
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** OBJECT-ORIENTED PROGRAMMING
+-   **Grade:** A
+-   **Language(s):** java
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/Racabane/CSCI-325-Minefield-rc)  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
 
@@ -15,14 +15,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+Have Apache Netbeans IDE Installed
 
-```bash
-cd ./project
-python setup.py
-```
+Import Project Folder Into Netbeans
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Run the Project In the IDE
+
+Type Commands In Command Line To Start GUI
 
 ## UI Design
 
@@ -30,14 +29,23 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Minesweeper_start.png)  
+Fig 1. The command line start
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Mineweeper_start_screen.png)  
+Fig 2. The launch screen after command line
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Minesweeper_captcha.png)  
+Fig 3. The captcha screen
+
+![screenshot](images/Failed.png)  
+Fig 4. A Failed attempt at the captcha
+
+![screenshot](images/Pass_captcha.png)  
+Fig 5. A Passed attemp at the captcha
+
+![screenshot](images/Login.png)  
+Fig 6. The login screen after the captcha
 
 ## 3. Additional Considerations
 
