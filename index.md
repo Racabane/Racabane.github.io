@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:Racabanellas2018@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1.md)
+### [5k run Charity Website | CSCI ](project1.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project2.md)
+### [Minesweeper captcha login| CSCI ](project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project3.md)
+### [Clinvar Database Search | CSCI ](project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4.md)
+### [Project 4 Title | CSCI ](project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
