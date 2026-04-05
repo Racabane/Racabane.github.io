@@ -3,9 +3,9 @@
 Website for a 5k Run
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** Rbuy on rails, html, css
+-   **Class:** USER-INTERFACE PROGRAMMING
+-   **Grade:** A
+-   **Language(s):** Ruby, HTML, CSS
 -   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/Racabane/charity_run_new))  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
 
@@ -30,16 +30,25 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Home_page.png)  
+Fig 1. The home screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/login_screen.png)  
+Fig 2. The login page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/sign_up.png)  
+Fig 3. The sign up page
 
-## 3. Additional Considerations
+![screenshot](images/about.png)  
+Fig 4. The about page
+
+![screenshot](images/user.png)  
+Fig 5. The user content page
+
+![screenshot](images/admin.png)  
+Fig 6. The admin page
+
+## 5. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
