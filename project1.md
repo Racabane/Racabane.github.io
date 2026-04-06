@@ -29,9 +29,7 @@ Once running the webiste can be accessed with http://localhost:3000
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+From the home page the user can see the race details. They can also visit the about page or login in/ sign up (see Fig 1). The login page allows the user to input their email and password into the two fields, then enter the information using the login button(see Fig 2). The sign up page has the user fill in various fields with personal information to create an account that will also sign them up for the race. The team field will allow people to join teams with others by having them all enter the same team name (see Fig 3). The about page has information about the charity such as the mission statement and about(see Fig 4). The user dashboard will have race information such as route, time as well as show all team members if in a team (see Fig 5). The admin page only for admin users will be able to see all runner's information and be able to make changes to them. The admin can also change their role by selecting on the runner and then toggling the role switch. The admin can also delete user by clicking on the delete button. However, editing the runner information will only be saved after pressing the save changes button(see Fig 6). 
 
 ![screenshot](images/Home_page.png)  
 Fig 1. The home screen
