@@ -29,9 +29,8 @@ That folder will now run the application without needing Qt
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The main screen will have most of the tools available in the left tool bar (see Fig 1). The user can create a task using the create button that will create a draggable label. This is to help visualize where the task will be placed when clicking somewhere on the table (see Fig 2). Clicking on the placed task or any task will open its edit menu to change the task's information (see Fig 3). The Group button will cause a dropdown to appear with more tools related to groups such as making or deleting groups. The user may also click on a group to filter the table to show only those tasks (see Fig 4). The Month view button will switch the view from weekly to a monthly view (see Fig 5). The List button will similarly switch the view to a list view (see Fig 6). The user may also navigate to previous or future dates using the two arrows buttons. There is also the Link button that can link two different tasks together.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/Start.png)  
 Fig 1. The launch screen
