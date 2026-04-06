@@ -25,9 +25,7 @@ Type Commands In Command Line To Start GUI
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Once the user starts the program an animation using command line output will occur. The user will then be prompted to start the game by entering s in the command line. The instructions will be stated then prompted to enter c in the command line. (see Fig 1). The GUI will then open after and the start screen will appear, where the user can press the start game button (see Fig 2). Then the board will appear, the user will be able to add flags or remove flags using the flag buttons. The user will be able to click on the tiles to clear them. (see Fig 3). Should the user click on a bomb tile they will have to either reset the board using the reset button or exit using the exit button (see Fig 4). After clearing all tiles except the bomb tiles, the users will now have the option to select the next button to move onto the login screen (see Fig 5). The login screen will allow the users to input the credentials in the two fields (see Fig 6). 
 
 ![screenshot](images/Minesweeper_start.png)  
 Fig 1. The command line start
