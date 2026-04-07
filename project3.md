@@ -41,6 +41,6 @@ Fig 2. The screen while it queries
 Fig 3. When the query fails
 
 ![screenshot](images/download.png)  
-Fig 3. When the download is ready
+Fig 4. When the download is ready
 
 [Back to Portfolio](./)
