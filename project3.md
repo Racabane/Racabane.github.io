@@ -25,12 +25,11 @@ npm install
 node index.js
 ```
 
-http://localhost:3000
+see website via http://localhost:3000
 
 ## UI Design
 
- (see Fig 1). (see Fig 2). (see Fig 3).
-
+The user when looking up specific gene information can input into the search bar specific gene identifiers (see Fig 1). Making sure the dropdown is selected with the correct identifier (see Fig 2). Then the user waits half a minute to three minutes for the program to find all relevant genes. In the event of incorrect keywords or simply no data found the query will fail and alert the user to try again (see Fig 3). If the data is found it will allow the user to download the file by selecting the file type and clicking download (see Fig 4).
 
 ![screenshot](images/launch.png)  
 Fig 1. The launch screen
