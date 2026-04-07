@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Clinvar Database Search | CSCI 495](project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.png)
+![Project 3 Thumbnail Name](images/launch.png)
 
 ---
 ### [Task Manager | CSCI 499](project4.md)
