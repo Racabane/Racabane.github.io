@@ -6,7 +6,7 @@ Clinvar Database Search
 -   **Class:** SYSTEMS ANALYSIS & SOFTWARE DESIGN
 -   **Grade:** A
 -   **Language(s):** HTML, CSS, Java, Javascript, SQL
--   **Source Code Repository:** [RED_TEAM](https://github.com/Racabane/CSCI_495_RED_TEAM)  
+-   **Source Code Repository:** [RED_TEAM](https://github.com/Racabane/CSCI-495-ClinVar-Project-RedTeam)  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -18,6 +18,8 @@ A local hospital doing cancer gene research had the issue of manually going thro
 Clone repo
 
 Install Node.js, SQL workbench, SQL server, Java orcale JDK
+
+Set up SQL database using databaseCreation.sql
 
 ```bash
 cd ./project
