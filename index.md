@@ -39,12 +39,12 @@ Ethics Papers
 ### [Balancing Reliability and Availability of Technology](/pdf/Ethics_CSCI_315_paper.pdf)
 
 -   **Class:** Data Structure Analysis
--   **Grade:** B
+-   **Grade:** A
 
 ### [Privacy and Anonymity on the Web](/pdf/Ethics_CSCI_415_paper.pdf)
 
 -   **Class:** Algorithms
--   **Grade:** B
+-   **Grade:** A
 
 ---
 
