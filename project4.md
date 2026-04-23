@@ -8,6 +8,7 @@ Task Manager
 -   **Language(s):** C++, CSS
 -   **Source Code Repository:** [Senior Project](https://github.com/Racabane/CSU-Senior-Project-RC/tree/master)  
     (Please [email me](mailto:racabanellas2018@gmail.com?subject=GitHub%20Access) to request access.)
+-   **Defense Documentation:** [Senior Project](https://github.com/Racabane/CSU-Senior-Project-RC/blob/master/docs/Defense_Documentation.md)
 
 ## Project description
 
