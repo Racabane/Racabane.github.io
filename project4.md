@@ -266,7 +266,7 @@ Fig 6. The list view of the manager
 ## Project Implementation Description and Explanation
 
 The main window that the user will see when running the program.
-<img width="1914" height="1070" alt="image" src="https://github.com/user-attachments/assets/53aaf30d-6d66-4a22-a61c-57fb2ed03ab7" />
+<img alt="image" src="https://github.com/user-attachments/assets/53aaf30d-6d66-4a22-a61c-57fb2ed03ab7" />
 The window will have various tools in the left tool bar and the default view of the week starting from the present day.
 The ‘create task’ button will add a moveable label on the screen for the user to clearly see where they are placing the task. 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a9850d04-637b-474b-a434-b4fa843670a1" />
