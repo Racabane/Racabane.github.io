@@ -269,59 +269,59 @@ The main window that the user will see when running the program.
 <img alt="image" src="https://github.com/user-attachments/assets/53aaf30d-6d66-4a22-a61c-57fb2ed03ab7" />
 The window will have various tools in the left tool bar and the default view of the week starting from the present day.
 The ‘create task’ button will add a moveable label on the screen for the user to clearly see where they are placing the task. 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a9850d04-637b-474b-a434-b4fa843670a1" />
+<img alt="image" src="https://github.com/user-attachments/assets/a9850d04-637b-474b-a434-b4fa843670a1" />
 Once the user clicks on one of the empty boxes within the weekly view a blank task will be created.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6ceae55-793e-4430-9ffd-67f30f1f0fa3" />
+<img alt="image" src="https://github.com/user-attachments/assets/a6ceae55-793e-4430-9ffd-67f30f1f0fa3" />
 The blank task will not be saved until some information is placed in the task. This is done in the task edit menu which is opened by clicking on the task.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8a5d74be-def0-41fc-846e-9a7ce96ec734" />
+<img alt="image" src="https://github.com/user-attachments/assets/8a5d74be-def0-41fc-846e-9a7ce96ec734" />
 Once information has been filled in the user can submit the changes. The task is created along with a message confirming its creation.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ee1ad673-8189-4b99-a1cb-2e8240688341" />
+<img alt="image" src="https://github.com/user-attachments/assets/ee1ad673-8189-4b99-a1cb-2e8240688341" />
 To delete a task within the same edit menu of the respective task click on the delete button. The task will disappear and a message will appear confirming its removal.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/25f0decb-e041-45f9-a603-fef966add183" />
+<img alt="image" src="https://github.com/user-attachments/assets/25f0decb-e041-45f9-a603-fef966add183" />
 When the user has multiple tasks created they can differentiate by changing their priority in the task edit menu  
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ff0e5d37-cef3-42dc-8efd-9b54dc9cff37" />
+<img alt="image" src="https://github.com/user-attachments/assets/ff0e5d37-cef3-42dc-8efd-9b54dc9cff37" />
 setting the priority will change the task visually based on priority low-blue, mid-yellow, high-red
-<img width="1913" height="1066" alt="image" src="https://github.com/user-attachments/assets/eb4d9cbc-604f-4dbf-9e56-5b121beeed48" />
+<img alt="image" src="https://github.com/user-attachments/assets/eb4d9cbc-604f-4dbf-9e56-5b121beeed48" />
 If the user needs one task to be completed before another they can link the two tasks. This is done using the link button that allows the selection of two tasks one to be the prerequisite and the other the requisite.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/87975a92-af4e-427a-a60c-ada49338fe82" />
+<img alt="image" src="https://github.com/user-attachments/assets/87975a92-af4e-427a-a60c-ada49338fe82" />
 After submitting the linking the tasks will gain a visual indication. A left border on the task indicates that it has a prerequisite task. A right border indicates that there is a follow up task that can be done after finishing the current one. 
-<img width="1906" height="1072" alt="image" src="https://github.com/user-attachments/assets/f621364c-fb81-4221-9005-a7ab1e743d08" />
+<img alt="image" src="https://github.com/user-attachments/assets/f621364c-fb81-4221-9005-a7ab1e743d08" />
 To unlink the tasks the user will click on one of the tasks with the link to open its edit menu. Then click on the unlink prerequisite or unlink requisite box depending on the link that
 needs to be removed and submit the changes. The visual indication of the link will disappear.
-<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/d242f34a-3f5f-4ea1-8d8b-bd11e1caf5aa" />
+<img alt="image" src="https://github.com/user-attachments/assets/d242f34a-3f5f-4ea1-8d8b-bd11e1caf5aa" />
 As there are more tasks the difficulty to manage them increases. Which is why the group button has a dropdown to help the user create and manage groups.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/38dc4656-a448-426e-9563-d6059cdb935a" />
+<img alt="image" src="https://github.com/user-attachments/assets/38dc4656-a448-426e-9563-d6059cdb935a" />
 Initially there are no groups so the user will click add group to create a new group
-<img width="1915" height="1074" alt="image" src="https://github.com/user-attachments/assets/e656ae5c-7f3a-464f-905d-39832d4cfe23" />
+<img alt="image" src="https://github.com/user-attachments/assets/e656ae5c-7f3a-464f-905d-39832d4cfe23" />
 The user will enter a name and submit it in the dialog that appears
-<img width="1915" height="1074" alt="image" src="https://github.com/user-attachments/assets/c7d10c74-4b81-48dd-b2fe-d4afd5b7032e" />
+<img alt="image" src="https://github.com/user-attachments/assets/c7d10c74-4b81-48dd-b2fe-d4afd5b7032e" />
 The new group will appear in the group dropdown.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d71b9300-49b5-4743-a20e-148c424d0a52" />
+<img alt="image" src="https://github.com/user-attachments/assets/d71b9300-49b5-4743-a20e-148c424d0a52" />
 To add a task to a group the user will need to open the tasks edit menu by clicking on the respective task. Then in the group dropdown to select the group the user wants it
 to be added to. While to remove it from a group using the same dropdown simply select none for the group.
-<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/7db5c16b-971a-4410-82bd-b3c7475683f5" />
+<img alt="image" src="https://github.com/user-attachments/assets/7db5c16b-971a-4410-82bd-b3c7475683f5" />
 After adding tasks to the school group, the user can click on the ‘school’ button in the dropdown to show only those tasks.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8e806c1e-4d67-46b7-bb6f-6feae2867d63" />
+<img alt="image" src="https://github.com/user-attachments/assets/8e806c1e-4d67-46b7-bb6f-6feae2867d63" />
 Once clicked the ‘school’ button will change color to show that it is enabled while hiding away the rest of the tasks not belonging to school.
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/37db032e-344e-4585-9b2d-5b25b80a0917" />
+<img alt="image" src="https://github.com/user-attachments/assets/37db032e-344e-4585-9b2d-5b25b80a0917" />
 Multiple groups can be enabled at once such as the ‘Appointments’ group showing both tasks from both groups.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/796a62d0-a2d7-4a22-846d-f387aa523e9f" />
+<img alt="image" src="https://github.com/user-attachments/assets/796a62d0-a2d7-4a22-846d-f387aa523e9f" />
 Clicking on School will disable the button no longer showing the tasks from school
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0106b067-bf9b-404e-b8f3-40d3b003969d" />
+<img alt="image" src="https://github.com/user-attachments/assets/0106b067-bf9b-404e-b8f3-40d3b003969d" />
 Clicking on the delete group button within the drop down will allow the user to select a group to delete. Setting all tasks belonging to it back to having no group. 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be9515f1-4439-473e-a0a7-9844df18bcd1" />
+<img alt="image" src="https://github.com/user-attachments/assets/be9515f1-4439-473e-a0a7-9844df18bcd1" />
 If the user wants a broader view of their schedule they can view the entire month by clicking on the ‘month view’ button. 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1ebe97ed-4524-46ec-9dd7-3c6fefba8c27" />
+<img alt="image" src="https://github.com/user-attachments/assets/1ebe97ed-4524-46ec-9dd7-3c6fefba8c27" />
 The user may also view their schedule in the form of a list by clicking on the ‘list view’ button. The list will show up to 20 tasks starting from the current day.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/18a73725-e03b-469a-a600-46d36fc5ae1e" />
+<img alt="image" src="https://github.com/user-attachments/assets/18a73725-e03b-469a-a600-46d36fc5ae1e" />
 The user can view older tasks while in the list view by clicking on the ‘load previous’ button on the top of the list. They can also scroll to the bottom
 of the list to click on the ‘load next tasks’ button to view tasks further in the future. While in month and the default weekly view they can utilize the 
 two ‘arrow’ buttons below month view to navigate to previous or upcoming months or weeks depending on view. 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b6ace34a-0c1b-49d4-9c39-57a42bccdbdd" />
+<img alt="image" src="https://github.com/user-attachments/assets/b6ace34a-0c1b-49d4-9c39-57a42bccdbdd" />
 As the user makes progress on their tasks they can mark it within the edit menu. 
-<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/75a12b3f-2cf5-411c-b160-d03af0a8a09e" />
+<img alt="image" src="https://github.com/user-attachments/assets/75a12b3f-2cf5-411c-b160-d03af0a8a09e" />
 The task will fade and gray out if marked as done. While if marked as working it will only slightly fade.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5fc9c6b6-fe51-43f3-8924-aed057d21e31" />
+<img alt="image" src="https://github.com/user-attachments/assets/5fc9c6b6-fe51-43f3-8924-aed057d21e31" />
 
 ## Test Plan
 Unofficial testing occurred throughout the development process. However to ensure the project met all requirements a test case was made for each of the project requirements. After the completion of the project it went through these test cases by the developer. If there were any issues it would be fixed then given to a peer that will also go through all these test cases to ensure better examination of the product. Utilizing the feedback and issues found by the peer the project would be adjusted. Then go through its last round of going through the test cases.
