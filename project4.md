@@ -41,6 +41,7 @@ Utilize the windeployqt tool that comes with QT Creator to fill the folder with 
 That folder will now run the application without needing Qt
 
 ## Project Requirements
+
 | ID Number: | 1 | 
 | :------------- | :------------ |
  | Type:  | Functional  | 
@@ -51,6 +52,7 @@ That folder will now run the application without needing Qt
  | Dependencies:  |  | 
 
 ---
+
 | ID Number:    |   2          |
 | :------------- | :------------ |
 | Type: | look and feel |
@@ -327,6 +329,7 @@ The task will fade and gray out if marked as done. While if marked as working it
 Unofficial testing occurred throughout the development process. However to ensure the project met all requirements a test case was made for each of the project requirements. After the completion of the project it went through these test cases by the developer. If there were any issues it would be fixed then given to a peer that will also go through all these test cases to ensure better examination of the product. Utilizing the feedback and issues found by the peer the project would be adjusted. Then go through its last round of going through the test cases.
 
 ## Test Results
+
 | ID | Type          | Test Feature                           | Success Condition                                                                                                  | Date | Result | Comments                                                                                          |
 | -- | ------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---- | ------ | ------------------------------------------------------------------------------------------------- |
 | 1  | Functional    | Create a task                          | Box appers in selected slot                                                                                        | 2/9  | Pass   |                                                                                                   |
@@ -351,6 +354,7 @@ Unofficial testing occurred throughout the development process. However to ensur
 | 20 | Functional    | Month View                             | The table will show all tasks within the month                                                                     | 2/17 | Pass   |                                                                                                   |
 
 ---
+
 | Requirement ID | Type          | Test Feature                            | Success Condition                                                                                                  | Date tested | Pass/fail | Comments                                                                                          |
 | -------------- | ------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | ------------------------------------------------------------------------------------------------- |
 | 1              | Functional    | Create a task                           | Box appers in selected slot                                                                                        | 2/22        | Pass      |                                                                                                   |
