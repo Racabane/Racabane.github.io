@@ -63,6 +63,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID 1 |
 
 ---
+
 | ID Number: | 3 |
 | :------------- | :------------ |
 | Type: | Functional |
@@ -73,6 +74,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1 |
 
 ---
+
 | ID Number: | 4| 
 | :------------- | :------------ |
 | Type: | look and feel| 
@@ -83,6 +85,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID 3| 
 
 ---
+
 | ID Number: | 5 |
 | :------------- | :------------ |
 | Type: | Functional | 
@@ -93,6 +96,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1| 
 
 ---
+
 | ID Number: | 6 | 
 | :------------- | :------------ |
 | Type: | Functional | 
@@ -103,6 +107,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1, ID5 | 
 
 ---
+
 | ID Number: | 7 | 
 | :------------- | :------------ |
 | Type: | Functional | 
@@ -113,6 +118,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1, ID5 | 
 
 ---
+
 | ID Number: | 8 | 
 | :------------- | :------------ |
 | Type: | Usability | 
@@ -123,6 +129,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1 | 
 
 ---
+
 | ID Number: | 9 | 
 | :------------- | :------------ |
 | Type: | Functional | 
@@ -133,6 +140,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1 | 
 
 ---
+
 | ID Number: | 10 | 
 | :------------- | :------------ |
 | Type: | Functional | 
@@ -143,6 +151,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID9 | 
 
 ---
+
 | ID Number: | 11 | 
 | :------------- | :------------ |
 | Type: | Functional | 
@@ -153,6 +162,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1 | 
 
 ---
+
 | ID Number: | 12 | 
 | :------------- | :------------ |
 | Type: | functional | 
@@ -163,6 +173,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID11 | 
 
 ---
+
 | ID Number: | 13 | 
 | :------------- | :------------ |
 | Type: | Usability | 
@@ -173,6 +184,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID11 | 
 
 ---
+
 | ID Number: | 14 | 
 | :------------- | :------------ |
 | Type: | Usability | 
@@ -183,6 +195,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | | 
 
 ---
+
 | ID Number: | 15 | 
 | :------------- | :------------ |
 | Type: | Usability | 
@@ -193,6 +206,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | | 
 
 ---
+
 | ID Number: | 16 | 
 | :------------- | :------------ |
 | Type: | Usability | 
@@ -203,6 +217,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID1 | 
 
 ---
+
 | ID Number: | 17 | 
 | :------------- | :------------ |
 | Type: | Look and feel | 
@@ -213,6 +228,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | | 
 
 ---
+
 | ID Number: | 18 | 
 | :------------- | :------------ |
 | Type: | Look and feel | 
@@ -223,6 +239,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | ID17 | 
 
 ---
+
 | ID Number: | 19 | 
 | :------------- | :------------ |
 | Type: | Look and feel | 
@@ -233,6 +250,7 @@ That folder will now run the application without needing Qt
 | Dependencies: | | 
 
 ---
+
 | ID Number: | 20 | 
 | :------------- | :------------ |
 | Type: | functional | 
@@ -377,15 +395,8 @@ Unofficial testing occurred throughout the development process. However to ensur
 | 18             | Look and Feel | Dropdown Menu for extended tool options | Any additional options for a user tool will be shown in dropdown                                                   | 2/22        | Pass      | So far only groups has dropdown.                                                                  |
 | 19             | Look and Feel | Date Display                            | The heading of the table views will include related dates for the user to associate the task with                  | 2/22        | Pass      | Weird placement of month, generally used to it being on top.                                      |
 | 20             | Functional    | Month View                              | The table will show all tasks within the month                                                                     | 2/22        | Pass      | Either show current day in month view or mark off days already passed.                            |
-|                |               |                                         |                                                                                                                    |             |           |                                                                                                   |
-|                |               |                                         |                                                                                                                    |             |           | Additional Comments                                                                               |
-|                |               |                                         |                                                                                                                    |             |           | No responsive design when changing screen size.                                                   |
-|                |               |                                         |                                                                                                                    |             |           | Personal -> text size a bit small                                                                 |
-|                |               |                                         |                                                                                                                    |             |           | For month view, numbers in fixed positions like a corner                                          |
-|                |               |                                         |                                                                                                                    |             |           | Save button or auto-save without having to close task manager                                     |
-|                |               |                                         |                                                                                                                    |             |           | Some color options don't have enough contrast with the background and text, made it hard to read  |
-|                |               |                                         |                                                                                                                    |             |           | Maybe a tutorial or help page to describe how to use task manager.                                |
-|                |               |                                         |                                                                                                                    |             |           | Character limits for task name.                                                                   |
+|        Additional Comments        |               |                                         |                                                                                                                    |             |           |                                                                                |
+|  No responsive design when changing screen size.              |   Personal -> text size a bit small            |   For month view, numbers in fixed positions like a corner                                      |       Save button or auto-save without having to close task manager                                     |     Some color options don't have enough contrast with the background and text, made it hard to read                                                                                                        |      Maybe a tutorial or help page to describe how to use task manager.               |  Character limits for task name.         |                                                    |
 
 ## Challenges Overcome
 A challenge I faced with this project was encompassing all the roles a team would have such as testers, coders, technical writers and team leads. In other courses with team projects I had learned the importance of separating these roles. With members focusing on different roles it helped prevent missing requirements of the project. The different roles also helped speed up the progress of the project. However, for this project I had to communicate my progress with my advisor, write various technical documents, code, test and be aware of deadlines and requirements. I overcame this challenge by examining what I needed to do for each role and making clear goals for myself. I alternated between the tasks of each role in a way to ensure all deliverables were met by their deadlines. Unlike in team projects there was less time spent on communicating but it also made it take longer and more prone to overlooking components of the project.
